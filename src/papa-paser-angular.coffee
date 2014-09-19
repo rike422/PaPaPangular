@@ -1,1 +1,1 @@
-console.log("hellow !")
+angular.module("papa-paser-angular",[]).directive("papaPaser")
